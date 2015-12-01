@@ -181,7 +181,7 @@ void bird() {
 void rat() {
   fill(110,110, 113);
   if ((frameCount % 30) <15) {
-    ellipse(30,470, 20, 20);} else {
-      ellipse(30, 470, 25, 25);
+    ellipse(90,383, 20, 20);} else {
+      ellipse(90, 383, 25, 25);
     }
 }
